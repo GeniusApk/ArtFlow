@@ -3,7 +3,7 @@
 
 ![Logo](https://github.com/in-deep-dive/ArtFlow/assets/101592615/e1dbc9ce-0db0-4a6a-a69f-69bc88b17409)
 
-Your Drawing App Name is a creative and feature-rich drawing application that allows you to express your artistic talents. With a wide range of tools and features, you can unleash your imagination and create stunning digital artwork.
+ArtFlow is a creative and feature-rich drawing application that allows you to express your artistic talents. With a wide range of tools and features, you can unleash your imagination and create stunning digital artwork.
 
 ## Features
 
